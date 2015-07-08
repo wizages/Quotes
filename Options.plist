@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>default</key>
+		<string>14</string>
+		<key>label</key>
+		<string>Font Size</string>
+		<key>name</key>
+		<string>fontSize</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>Satisfaction</string>
+		<key>label</key>
+		<string>Font</string>
+		<key>name</key>
+		<string>fontName</string>
+		<key>options</key>
+		<dict>
+			<key>Alex Brush</key>
+			<string>AlexBrush-Regular</string>
+			<key>Arial</key>
+			<string>Arial</string>
+			<key>Dear Joe</key>
+			<string>dearJoe</string>
+			<key>Great Vibes</key>
+			<string>GreatVibes-Regular</string>
+			<key>Helvetica</key>
+			<string>Helvetica</string>
+			<key>Helvetica Neue</key>
+			<string>Helvetica Neue</string>
+			<key>Playball</key>
+			<string>Playball</string>
+			<key>Roboto</key>
+			<string>Roboto</string>
+			<key>Rochester</key>
+			<string>Rochester-Regular</string>
+			<key>Satisfaction</key>
+			<string>Satisfaction</string>
+			<key>Verdana</key>
+			<string>Verdana</string>
+			<key>Helvetica Thin</key>
+			<string>Helvetica-Thin</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>White</string>
+		<key>label</key>
+		<string>Font Color</string>
+		<key>name</key>
+		<string>fontColor</string>
+		<key>options</key>
+		<dict>
+			<key>Black</key>
+			<string>#000000</string>
+			<key>Blue</key>
+			<string>#0000ff</string>
+			<key>Green</key>
+			<string>#008000</string>
+			<key>Magenta</key>
+			<string>#FF00FF</string>
+			<key>Orange</key>
+			<string>#FFA500</string>
+			<key>Red</key>
+			<string>#FF0000</string>
+			<key>White</key>
+			<string>#FFFFFF</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>Brainy Quote - Today's Quotes</string>
+		<key>label</key>
+		<string>Quote type</string>
+		<key>name</key>
+		<string>sourceFeed</string>
+		<key>options</key>
+		<dict>
+			<key>Brainy Quote - Art Quotes</key>
+			<string>http://feeds.feedburner.com/brainyquote/QUOTEAR</string>
+			<key>Brainy Quote - Funny Quotes</key>
+			<string>http://feeds.feedburner.com/brainyquote/QUOTEFU</string>
+			<key>Brainy Quote - Love Quotes</key>
+			<string>http://feeds.feedburner.com/brainyquote/QUOTELO</string>
+			<key>Brainy Quote - Nature Quotes</key>
+			<string>http://feeds.feedburner.com/brainyquote/QUOTENA</string>
+			<key>Brainy Quote - Today's Quotes</key>
+			<string>http://feeds.feedburner.com/brainyquote/QUOTEBR</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>1</string>
+		<key>label</key>
+		<string>Time (hours)</string>
+		<key>name</key>
+		<string>interval_time</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,71 @@
+@font-face {
+	font-family: Satisfaction;
+	src: url('Satisfaction.ttf');
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url('Roboto-Thin.ttf');
+}
+
+@font-face {
+	font-family: dearJoe;
+	src: url('dearJoe.ttf');
+}
+
+@font-face {
+	font-family: GreatVibes-Regular;
+	src: url('GreatVibes-Regular.ttf');
+}
+
+@font-face {
+	font-family: AlexBrush-Regular;
+	src: url('AlexBrush-Regular.ttf');
+}
+
+@font-face {
+	font-family: Playball;
+	src: url('Playball.ttf');
+}
+
+@font-face {
+	font-family: Rochester-Regular;
+	src: url('Rochester-Regular.ttf');
+}
+@font-face {
+	font-family: Helvetica-Thin;
+	src: url('Helvetica-Thin.ttf');
+}
+
+body {
+	margin:0;
+    top:0;
+}
+
+#background {
+	position: absolute;
+	width: 320px;
+	top: 0px;
+	text-align: center;
+}
+
+div#divTextToDisplay {
+	position: absolute;
+	width: 320px;
+	top: 0px;
+	text-align: center;
+}
+
+blockquote {
+	margin: 0.25em 0;
+	padding: 0.35em 10px;
+	line-height: 1.45;
+}
+blockquote cite {
+	display: block;
+	margin-top: 0px;
+}
+
+blockquote cite:before {
+	content: "\2014 \2009";
+}
