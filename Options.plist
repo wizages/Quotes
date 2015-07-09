@@ -95,9 +95,21 @@
 			<string>http://feeds.feedburner.com/brainyquote/QUOTENA</string>
 			<key>Brainy Quote - Today's Quotes</key>
 			<string>http://feeds.feedburner.com/brainyquote/QUOTEBR</string>
+			<key>Custom Feed - Enter Below</key>
+			<string>custom</string>
 		</dict>
 		<key>type</key>
 		<string>select</string>
+	</dict>
+		<dict>
+		<key>default</key>
+		<string>None</string>
+		<key>label</key>
+		<string>Custom Feed URL</string>
+		<key>name</key>
+		<string>customUrl</string>
+		<key>type</key>
+		<string>edit</string>
 	</dict>
 	<dict>
 		<key>default</key>
